@@ -1,0 +1,8 @@
+.bg1 {
+    background-image: url('../../images/BG-navbar.png');
+    background-position: center;
+    /* background-size: contain; */
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
